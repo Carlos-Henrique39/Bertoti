@@ -8,7 +8,7 @@ Provide text alternatives for any non-text content so that it can be changed int
 <img src="https://static.wikia.nocookie.net/logopedia/images/d/de/Riot_Games_2019_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20190528181216">
 
 Guideline 1.2 – Time-based Media
-Provide alternatives for time-based media.
+Provide alternatives for time-based media. https://www.youtube.com/, 
 
 Guideline 1.3 – Adaptable
 Create content that can be presented in different ways (for example simpler layout) without losing information or structure.
@@ -16,8 +16,7 @@ Create content that can be presented in different ways (for example simpler layo
 Guideline 1.4 – Distinguishable
 Make it easier for users to see and hear content including separating foreground from background.
 
-
-Principle 2 – Operable
+  Principle 2 – Operable
 User interface components and navigation must be operable.
 
 
