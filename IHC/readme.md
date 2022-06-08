@@ -31,8 +31,8 @@ User interface components and navigation must be operable.
 Guideline 2.1 – Keyboard Accessible
 Make all functionality available from a keyboard.
 https://www.youtube.com/
-Os comandos do youtube podem ser vistos no video, exemplo = Ao apertar o "M" o audio fica mudo, e ao apertar "F" a tela fica cheia, isso são bons exemplos 
-da funcionabilidade do teclado e sua função no site.
+Os comandos do youtube são um otimo exemplo sobre a acessibilidade do teclado, ja que o site se interage ao apertar o teclado, exemplo: Ao apertar o botão "F"
+a tela do video atual fica no formato tela cheia.
 
 Guideline 2.2 – Enough Time
 Provide users enough time to read and use content.
