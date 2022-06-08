@@ -5,7 +5,6 @@ Information and user interface components must be presentable to users in ways t
 Guideline 1.1 – Text Alternatives
 Provide text alternatives for any non-text content so that it can be changed into other forms people need, such as large print, braille, speech, symbols or simpler language.
 
-<img src="https://static.wikia.nocookie.net/logopedia/images/d/de/Riot_Games_2019_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20190528181216">
 
 Guideline 1.2 – Time-based Media
 Provide alternatives for time-based media. https://www.youtube.com/, 
