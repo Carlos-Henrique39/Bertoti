@@ -37,14 +37,14 @@ a tela do video atual fica no formato tela cheia.
 Guideline 2.2 – Enough Time
 Provide users enough time to read and use content.
 https://www.ligayugioh.com.br/
-O anuncio dentro do site, mostrando os produtos, ficam por um breve periodo de tempo e e deixando tempo suficiente para as pessoas ver 
-do que se trata e mostrando os outros produtos no mesmo tempo para poder divulgar todas as novidades.
+O anuncio dentro do site, mostrando os produtos, ficam por um breve periodo de tempo deixando as pessoas verem  
+do que se trata e fica mostrando os outros produtos no tempo ideal para as novidades do dia.
 
 
 Guideline 2.3 – Seizures and Physical Reactions
 Do not design content in a way that is known to cause seizures or physical reactions.
 https://www.ligayugioh.com.br/
-Tem uma live que começa do nada e oo usuario, ao não se usar muito o site fica fazendo a play sozinha e o som que nem o usuario estava esperando
+Tem uma live que começa do nada, ao não se usar muito o site, a live roda sozinha e o som que nem o usuario estava esperando
 sai da caixa de som dele.
 
 
