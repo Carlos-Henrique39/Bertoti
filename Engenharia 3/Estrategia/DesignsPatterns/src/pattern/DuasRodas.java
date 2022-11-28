@@ -4,7 +4,7 @@ public class DuasRodas implements Andar{
 
 	public void dirigirAutom() {
 		
-		System.out.println("Anda apenas com duas rodas...");
+		System.out.println("dirige com apenas duas rodas...");
 		
 	}
 }
