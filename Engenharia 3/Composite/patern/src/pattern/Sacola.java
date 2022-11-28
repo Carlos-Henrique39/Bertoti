@@ -11,7 +11,7 @@ public class Sacola implements Compra {
 		for (Compra p : compras) {
 			p.buy();
 		}
-		System.out.println("Compra realizada!");
+		System.out.println("Compra foi feita com sucesso!");
 		compras.clear();
 	}
 
