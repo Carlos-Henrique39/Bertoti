@@ -8,6 +8,6 @@ public class Dobro extends Observer {
 
 	@Override
 	public void update() {
-		System.out.println("Dobro: " + Integer.toString(subject.getState() * 2));		
+		System.out.println("O dobro: " + Integer.toString(subject.getState() * 2));		
 	}    	
 }
