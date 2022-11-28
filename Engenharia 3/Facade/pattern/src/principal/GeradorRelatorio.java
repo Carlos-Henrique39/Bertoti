@@ -11,13 +11,11 @@ public class GeradorRelatorio {
 	
 	public List<Venda> gerarRelatorioVendasPorCliente(int id) {
 		
-		// diminuição do acoplamento e no aumento da coesão
 		return facade.gerarRelatorioVendasPorCliente(id);
 	}
 	
-	public List<Produto> gerarRelatorioProdutosMaisVendidos(int id) {
-
-		// diminuição do acoplamento e no aumento da coesão
+	public List<Produto> gerarRelatorioProdutosMaisVendidos(int id) 
+		
 		return facade.gerarRelatorioProdutosMaisVendidos(id);
 	}
 }
